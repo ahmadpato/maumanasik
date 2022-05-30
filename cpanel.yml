@@ -1,0 +1,7 @@
+
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/maungaji/beta.maungaji.co.id/
+    - /bin/cp -R * $DEPLOYPATH
+    
