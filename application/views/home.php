@@ -285,7 +285,7 @@
                         <h5 style="font-size: 20px;">125 Pembimbing yang sudah di Verifikasi dan Bersertifikat BAN-PT serta Kemeng dengan minimal 3 Tahun Pengalaman dalam Membimbing Haji dan Umroh</h5>
                       
                         <div class="col-xs-12" style="margin-top: 25px;">
-                            <img src="<?php echo base_url('img/guru-ngaji/guru-ngaji.png') ?>" class="img-responsive center" alt="Belajar Ngaji" height="auto">
+                            <img src="<?php echo base_url('img/guru-ngaji/guru_manasik.jpeg') ?>" class="img-responsive center" alt="Belajar Ngaji" width="80%">
                         </div>
                     </div>
                 </div>
