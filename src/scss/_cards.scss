@@ -1,11 +1,19 @@
 .package-card {
   color:#FFFFFF;
   font-family:Poppins;
+  background: #1baa69;
+  
 
   .package-name {
     letter-spacing: -1px;
     text-transform: uppercase;
     font-family:Poppins;
+    font-size: 42px;
+    font-weight: 700;
+  }
+
+  .package-type {
+    font-weight: 400;
   }
 
   .package-price {
@@ -18,6 +26,7 @@
     font-weight: 600;
     font-size: 50px !important;
     line-height: 80px;
+    color: #1baa69;
 
     span {
       font-size: 25px;
@@ -37,42 +46,42 @@
     display: inline-block;
   }
 
-  &.keluarga {
-    background: #D44835;
+  // &.keluarga {
+  //   background: #D44835;
 
-    .package-price {
-      color: #D44835;
-    }
-  }
-  &.kelompok {
-    background: #35D458;
+  //   .package-price {
+  //     color: #D44835;
+  //   }
+  // }
+  // &.kelompok {
+  //   background: #35D458;
 
-    .package-price {
-      color: #35D458;
-    }
-  }
-  &.personal {
-    background: #3597D4;
+  //   .package-price {
+  //     color: #35D458;
+  //   }
+  // }
+  // &.personal {
+  //   background: #1baa69;
 
-    .package-price {
-      color: #3597D4;
-    }
-  }
+  //   .package-price {
+  //     color: #1baa69;
+  //   }
+  // }
 }
 
 .testimony-card {
   font-family: Poppins;
-  background: #3597D4;
+  background: #1baa69;
   color: #FFFFFF;
 }
 
 .owl-item {
   &.active.center .testimony-card {
     background: #FFFFFF;
-    border: 2px solid #3597D4;
+    border: 2px solid #1baa69;
 
     h5 {
-      color: #3597D4;
+      color: #1baa69;
     }
 
     p {
@@ -100,7 +109,7 @@
   display: none;
 }
 .gtco-testimonials .card {
-  /*background: #3597D4;*/
+  /*background: #1baa69;*/
   // box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
   margin: 0 20px;
   padding: 0 10px;

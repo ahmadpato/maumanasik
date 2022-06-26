@@ -29,7 +29,9 @@ ini_set('display_errors', 1);
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
   <!--Fontpoppins -->
-  <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
 
   <!--Rakkas -->
   <link href='https://fonts.googleapis.com/css?family=Rakkas' rel='stylesheet'>
@@ -90,6 +92,7 @@ ini_set('display_errors', 1);
       text-align: left;
       line-height: normal;
     }
+
     #logo ul li img {
       margin-top: 25px;
     }
@@ -261,27 +264,27 @@ ini_set('display_errors', 1);
     }
 
     .gtco-testimonials .owl-carousel2 .owl-nav {
-      display: block!important;
+      display: block !important;
     }
 
     .owl-prev {
-        width: 15px;
-        height: 100px;
-        position: absolute;
-        top: 40%;
-        margin-left: -20px !important;
-        display: block !important;
-        border:0px solid black;
+      width: 15px;
+      height: 100px;
+      position: absolute;
+      top: 40%;
+      margin-left: -20px !important;
+      display: block !important;
+      border: 0px solid black;
     }
 
     .owl-next {
-        width: 15px;
-        height: 100px;
-        position: absolute;
-        top: 40%;
-        right: 0px !important;
-        display: block !important;
-        border:0px solid black;
+      width: 15px;
+      height: 100px;
+      position: absolute;
+      top: 40%;
+      right: 0px !important;
+      display: block !important;
+      border: 0px solid black;
     }
 
     .owl-carousel2 .owl-item {
@@ -293,6 +296,7 @@ ini_set('display_errors', 1);
       .testimony-video-carousel {
         margin-bottom: 50px;
       }
+
       .testimony-video-description {
         margin-top: 20px;
       }
@@ -310,11 +314,11 @@ ini_set('display_errors', 1);
       }
 
       .owl-prev {
-          top: 5%;
+        top: 5%;
       }
 
       .owl-next {
-          top: 5%;
+        top: 5%;
       }
     }
 
@@ -369,7 +373,26 @@ ini_set('display_errors', 1);
             </a>
           </div>
 
-       
+          <!--Main Menu -->
+          <div class="container">
+            <div class="collapse navbar-collapse">
+              <ul class="nav navbar-nav pull-right">
+                <!-- <li><a href="/">HALAMAN UTAMA</a></li> -->
+                <!-- <li><a href="https://blog.maungaji.co.id">BLOG</a></li> -->
+                <!-- <li><a href="/army">LIST ARMY</a></li> -->
+                <!-- <li><a href="/teacher">LIST GURU NGAJI</a></li> -->
+                <li>
+                  <a href="https://api.whatsapp.com/send?phone=6281213419253&text=Assalamu'alaikum%20admin%20maungaji%20saya%20ingin%20memesan%20Guru%20Ngaji" target="_blank">
+                    <div class="teacher">
+                      CARI PEMBIMBING
+                    </div>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+
         </div>
       </div>
     </nav>

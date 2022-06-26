@@ -238,7 +238,7 @@ $(function () {
             $("nav").addClass("white-nav-top");
 
             // Show dark logo
-            $(".navbar-brand img").attr("src", "/img/logo/Mau-Ngaji-Logo-transparent.png");
+            $(".navbar-brand img").attr("src", "/img/logo/Maumanasik-logo.png");
 
             // Show back to top button
             $("#back-to-top").fadeIn();
@@ -249,7 +249,7 @@ $(function () {
             $("nav").removeClass("white-nav-top");
 
             // Show logo
-            $(".navbar-brand img").attr("src", "/img/logo/Mau-Ngaji-Logo-transparent.png");
+            $(".navbar-brand img").attr("src", "/img/logo/Maumanasik-logo.png");
 
             // Hide back to top button
             $("#back-to-top").fadeOut();
