@@ -170,48 +170,48 @@ $(function () {
 /* =========================================
               Google Map
 ============================================ */
-$(window).on('load', function () {
+// $(window).on('load', function () {
 
-    // Map Variables
-    var addressString = 'Kebayoran Baru, Kota Jakarta Selatan, 12140';
-    var myLatlng = {
-        lat: -6.242130,
-        lng: 106.801811
-    };
+//     // Map Variables
+//     var addressString = 'Kebayoran Baru, Kota Jakarta Selatan, 12140';
+//     var myLatlng = {
+//         lat: -6.242130,
+//         lng: 106.801811
+//     };
 
-    // 1. Render Map
-    var map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 11,
-        center: myLatlng
-    });
+//     // 1. Render Map
+//     var map = new google.maps.Map(document.getElementById('map'), {
+//         zoom: 11,
+//         center: myLatlng
+//     });
 
-    // 2. Add Marker
-    var marker = new google.maps.Marker({
-        position: myLatlng,
-        map: map,
-        title: "Click To See Address"
-    });
+//     // 2. Add Marker
+//     var marker = new google.maps.Marker({
+//         position: myLatlng,
+//         map: map,
+//         title: "Click To See Address"
+//     });
 
-    // 3. Add Info Window
-    var infowindow = new google.maps.InfoWindow({
-        content: addressString
-    });
+//     // 3. Add Info Window
+//     var infowindow = new google.maps.InfoWindow({
+//         content: addressString
+//     });
 
-    // Show info window when user clicks marker
-    marker.addListener('click', function () {
-        infowindow.open(map, marker);
-    });
+//     // Show info window when user clicks marker
+//     marker.addListener('click', function () {
+//         infowindow.open(map, marker);
+//     });
 
-    // 4. Resize Function
-    google.maps.event.addDomListener(window, 'resize', function () {
+//     // 4. Resize Function
+//     google.maps.event.addDomListener(window, 'resize', function () {
 
-        var center = map.getCenter();
-        google.maps.event.trigger(map, 'resize');
-        map.setCenter(center);
+//         var center = map.getCenter();
+//         google.maps.event.trigger(map, 'resize');
+//         map.setCenter(center);
 
-    });
+//     });
 
-});
+// });
 
 
 /* =========================================

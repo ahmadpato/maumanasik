@@ -2121,19 +2121,20 @@ ul.navbar-nav>li>a:focus {
   border-bottom: 1px solid #555;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
-.ct-footer-list > li .ct-footer-list-header {
-  font-family: 'Open Sans Condensed', sans-serif;
+.ct-footer-list .ct-footer-list-header {
+  font-family: 'Poppins';
   color: #00bff3;
-  font-size: 30px;
+  font-size: 24px;
+  font-weight: 700;
 }
-.ct-footer-list > li ul {
+.ct-footer-list ul {
   list-style: none;
   padding-left: 0;
 }
-.ct-footer-list > li ul li a {
+.ct-footer-list ul li a {
   color: #fff;
 }
-.ct-footer-list > li ul li a:hover,
+.ct-footer-list ul li a:hover,
 .ct-footer-post a:hover {
   text-decoration: underline;
 }

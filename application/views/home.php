@@ -359,7 +359,7 @@
         </div>
     </div>
 
-    <section id="pers" style="background-color: #FFFFFF;">
+    <!-- <section id="pers" style="background-color: #FFFFFF;">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 wow fadeIn">
@@ -382,4 +382,4 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->

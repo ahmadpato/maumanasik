@@ -1,27 +1,26 @@
 <!--FOOTER START -->
 <footer class="ct-footer" style="background-color: #263238">
     <div class="container">
-        <ul class="ct-footer-list text-center-sm">
-            <li>
+        <div class="row ct-footer-list">
+            <div class="col-lg-3">
                 <h2 class="ct-footer-list-header" style="color: #FFFFFF">Ikuti Kami</h2>
                 <ul class="fa-ul">
-                    <li><a href="https://www.instagram.com/maungaji/" target="_blank"><i class="fa-li fa fa-instagram"></i>maungaji</a></li>
-                    <li><a href="https://twitter.com/MaungajiIndo" target="_blank"><i class="fa-li fa fa-twitter"></i>maungajiIndo</a></li>
-                    <li><a href="https://www.youtube.com/channel/UCIp6c79qyzU98400W253WYQ" target="_blank"><i class="fa-li fa fa-youtube"></i>maungaji official</a></li>
-                    <li><a href="https://www.facebook.com/maungaji/" target="_blank"><i class="fa-li fa fa-facebook"></i>maungaji</a></li>
+                    <li><a href="https://www.instagram.com/maungaji/" target="_blank"><i class="fa-li fa fa-instagram"></i>maumanasik</a></li>
+                    <li><a href="https://www.youtube.com/channel/UCIp6c79qyzU98400W253WYQ" target="_blank"><i class="fa-li fa fa-youtube"></i>maumanasik</a></li>
                 </ul>
-            </li>
-            <li>
+            </div>
+            <div class="col-lg-3">
                 <h2 class="ct-footer-list-header" style="color: #FFFFFF">Hubungi Kami</h2>
                 <ul class="fa-ul text-white">
-                    <li><i class="fa-li fa fa-envelope"></i>support@maungaji.co.id</li>
-                    <li><a href="https://api.whatsapp.com/send?text=Assalamua'alaikum&phone=6281213419253" target="_blank"><i class="fa-li fa fa-whatsapp"></i>+6281213419253</a></li>
+                    <li><i class="fa-li fa fa-envelope"></i>maumanasik@gmail.com</li>
+                    <li><a href="https://api.whatsapp.com/send?text=Assalamua'alaikum&phone=6281213419253" target="_blank"><i class="fa-li fa fa-whatsapp"></i>0813 8227 0775</a></li>
                     <li><i class="fa-li fa fa-map-marker"></i>Menara 165 lantai 4 Jl TB Simatupang kav 1 Cilandak Jakarta Selatan</li>
                 </ul>
-            </li>
-            <li>
+            </div>
+            <div class="col-lg-3">
                 <h2 class="ct-footer-list-header" style="color: #FFFFFF">Info Perusahaan</h2>
                 <ul>
+                    <li><a href="">Tentang Kami</a></li>
                     <li><a href="https://maungaji.co.id/privacy/privacy_policy.html">Kebijakan Privasi</a></li>
                     <li><a href="https://maungaji-2019.s3-ap-southeast-1.amazonaws.com/additional/tnc.html">Syarat dan Ketentuan</a></li>
                     <li><a href="">Karir</a></li>
@@ -30,16 +29,25 @@
                 <br />
                 <br />
                 <div class="inner-center">
-                    <p style="color: #FFFFFF">Copyright © <?php echo date("Y"); ?> PT Maungaji Teknologi Indonesia.</p>
+                    <p style="color: #FFFFFF">2010 - <?php echo date("Y"); ?> Privacy - Terms</p>
                 </div>
-            </li>
-            <li>
-                <!--<h2 class="ct-footer-list-header" style="color: #FFFFFF">Download</h2>-->
+            </div>
+            <div class="col-lg-3">
+                <h2 class="ct-footer-list-header" style="color: #FFFFFF">Download Here <?php echo getenv('CI_ENVIRONMENT') ?></h2>
                 <ul>
-                    
+                    <li>
+                        <a href="">
+                            <img src="/img/logo/appstore.svg" alt="" class="mb-2">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="/img/logo/playstore.svg" alt="">
+                        </a>
+                    </li>
                 </ul>
-            </li>
-        </ul>
+            </div>
+        </div>
     </div>
 
 </footer>
@@ -76,6 +84,8 @@
 
 <!--Custom JS -->
 <script src="<?php echo base_url("/js/script.js") ?>"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" integrity="sha512-Eak/29OTpb36LLo2r47IpVzPBLXnAMPAVypbSZiZ4Qkf8p/7S/XRG5xp7OKWPPYfJT6metI+IORkR5G8F900+g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 <script async data-id="16951" src="https://cdn.widgetwhats.com/script.min.js"></script>
 
