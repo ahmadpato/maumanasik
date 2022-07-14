@@ -33,7 +33,7 @@
                 </div>
             </div>
             <div class="col-lg-3">
-                <h2 class="ct-footer-list-header" style="color: #FFFFFF">Download Here <?php echo getenv('CI_ENVIRONMENT') ?></h2>
+                <h2 class="ct-footer-list-header" style="color: #FFFFFF">Download Here</h2>
                 <ul>
                     <li>
                         <a href="">
