@@ -38,7 +38,7 @@
                         <br>
                     </div>
                     <div class="col-md-4 col-sm-4">
-                        <img src="<?php echo base_url('/img/ilustrasi/manasik_hijau.png') ?>" class="img-responsive" alt="Belajar Ngaji" style="height: 450px; width: 100%;">
+                        <img src="<?php echo base_url('/img/ilustrasi/LOGO_MAUMANASIK_HOME-02.svg') ?>" class="img-responsive" alt="Belajar Manasik" style="height: 450px; width: 100%;">
                     </div>
                     <br>
                     <br>
@@ -107,7 +107,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="class-card text-center position-relative mb-5 mb-lg-0">
-                        <img src="<?php echo base_url('img/ilustrasi/kakbah-1.png') ?>" class="img-responsive center-block" alt="Belajar Ngaji">
+                        <img src="<?php echo base_url('img/ilustrasi/kakbah-1.png') ?>" class="img-responsive center-block" alt="Belajar Manasik">
                         <div class="class-name w-100 position-absolute" data-toggle="tooltip" title="Mulai belajar mengenali, membaca, dan melafalkan secara benar huruf-huruf Arab dengan mengikuti kelas IQRO’ di Maungaji">
                             Haji
                         </div>
@@ -115,7 +115,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="class-card text-center position-relative mb-5 mb-lg-0">
-                        <img src="<?php echo base_url('img/ilustrasi/kakbah-2.png') ?>" class="img-responsive center-block" alt="Belajar Ngaji">
+                        <img src="<?php echo base_url('img/ilustrasi/kakbah-2.png') ?>" class="img-responsive center-block" alt="Belajar Manasik">
                         <div class="class-name w-100 position-absolute" data-toggle="tooltip" title="Baguskan dan perbaiki bacaan Qur’an mu dengan mengikuti kelas Tahsin atau yang biasa dikenal dengan ilmu tajwid di Maungaji">
                             Umroh
                         </div>
@@ -127,7 +127,7 @@
     <!--end class-->
 
     <!--article-->
-    <div class="content-box-md teacher-box" style="margin-top:-100px;">
+    <div class="content-box-md teacher-box" style="margin-top:-80px;">
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
@@ -155,7 +155,7 @@
                                 </p>
                             </div>
                             <div class="text-center">
-                                <p class="text-register-teacher text-center" style="color: #3597D4;">
+                                <p class="text-register-teacher text-center" style="color: #1baa69;">
                                     <a href="https://bit.ly/Maungajiapa" target="_blank" class="text-success">Daftar Jadi Pembimbing <i class="fa fa-arrow-right"></i></a>
                                 </p>
                             </div>
@@ -165,7 +165,7 @@
                 <div class="col-sm-6">
                     <div class="row">
                         <div class="col-xs-12">
-                            <img src="<?php echo base_url('img/guru-ngaji/maumanasik_hijau_new.svg') ?>" class="img-responsive" alt="Belajar Ngaji" height="auto">
+                            <img src="<?php echo base_url('img/guru-ngaji/maumanasik_hijau_new.svg') ?>" class="img-responsive" alt="Belajar Manasik" height="auto">
                         </div>
                     </div>
                     <div class="row">
@@ -176,7 +176,7 @@
                                 </p>
                             </div>
                             <div class="text-center">
-                                <p class="text-register-teacher text-center" style="color: #3597D4;">
+                                <p class="text-register-teacher text-center" style="color: #1baa69;">
                                     <a href="https://play.google.com/store/apps/details?id=com.maungaji.guruapp" target="_blank">Daftar Jadi Pembimbing <i class="fa fa-arrow-right"></i></a>
                                 </p>
                             </div>
@@ -191,7 +191,7 @@
                         <h5 style="font-size: 20px;">125 Pembimbing yang sudah di Verifikasi dan Bersertifikat BAN-PT serta Kemeng dengan minimal 3 Tahun Pengalaman dalam Membimbing Haji dan Umroh</h5>
 
                         <div class="col-xs-12" style="margin-top: 25px;">
-                            <img src="<?php echo base_url('img/guru-ngaji/maumanasik_hijau_new.svg') ?>" class="img-responsive center" alt="Belajar Ngaji" widht="80%">
+                            <img src="<?php echo base_url('img/guru-ngaji/maumanasik_hijau_new.svg') ?>" class="img-responsive center" alt="Belajar Manasik" widht="80%">
                         </div>
                     </div>
                 </div> -->
@@ -221,7 +221,7 @@
                     <br>
                     <div class="col-md-6 col-sm-6 text-center square-kelebihan-maungaji" style="color:#FFFFFF; font-size:25px; font-family:Poppins;">
                         <p>
-                            <img src="<?php echo base_url('img/ilustrasi/Maumanasik-advantage-1.png') ?>" style="left: 10%;" class="img-responsive center-block " alt="Belajar Ngaji" height="auto">
+                            <img src="<?php echo base_url('img/ilustrasi/Maumanasik-advantage-1.png') ?>" style="left: 10%;" class="img-responsive center-block " alt="Belajar Manasik" height="auto">
                         </p>
                         <p style="color:#FFFFFF; font-size:25px; font-family:Poppins;">
                             Pembimbing Bersetifikat
@@ -232,7 +232,7 @@
                     </div>
                     <div class="col-md-6 col-sm-6 text-center square-kelebihan-maungaji" style="color:#FFFFFF; font-size:25px; font-family:Poppins;">
                         <p>
-                            <img src="<?php echo base_url('img/ilustrasi/Maumanasik-advantage-2.png') ?>" class="img-responsive center-block " alt="Belajar Ngaji" height="auto">
+                            <img src="<?php echo base_url('img/ilustrasi/Maumanasik-advantage-2.png') ?>" class="img-responsive center-block " alt="Belajar Manasik" height="auto">
                         </p>
                         <p style="color:#FFFFFF; font-size:25px; font-family:Poppins;">
                             Materi Komperhensif

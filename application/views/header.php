@@ -21,7 +21,7 @@ ini_set('display_errors', 1);
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
   <!--Favicon -->
-  <link rel="icon" type="image/png" href="<?php echo base_url('/img/favicon/favicon-32x32.png') ?>">
+  <link rel="icon" type="image/png" href="<?php echo base_url('/img/favicon/ukuran-32x32-01.png') ?>">
 
   <!--Custom CSS -->
   <link rel="stylesheet" href="<?php echo base_url('/css/maungaji-style.min.css?version=1.0.0') ?>">
@@ -346,6 +346,10 @@ ini_set('display_errors', 1);
         width: 200px;
         margin: auto;
       }
+    }
+    a {
+      color: #1baa69;
+      text-decoration: none;
     }
   </style>
 
