@@ -366,10 +366,10 @@ ini_set('display_errors', 1);
         <div class="site-nav-wrapper">
           <div class="navbar-header">
             <!--Mobile Menu Open Button -->
-            <span id="mobile-nav-open-btn" style="color: #1BAA69;">&#9776;</span>
+            <span id="mobile-nav-open-btn" style="color: #1BAA69; margin-top: -10px;">&#9776;</span>
             <!--Logo -->
             <a class="navbar-brand" href="/">
-              <img class="logo-non-text" src="<?php echo base_url('img/logo/logo_manasik_hijau.png') ?>" alt="logo" width="auto" class="img-responsive" height="50px" style="margin-top: -10px;margin-left: 72px;">
+              <img class="logo-non-text" src="<?php echo base_url('img/logo/logo_manasik_hijau.png') ?>" alt="logo" width="auto" class="img-responsive" height="50px" style="margin-top: -16px;margin-left: 72px;">
             </a>
             <!--Logo -->
             <a class="navbar-brand-mobile" href="/">
