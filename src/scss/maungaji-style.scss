@@ -39,6 +39,7 @@ body {
 
 body {
     color: #212226;
+    padding-top: 120px;
 }
 
 h1,
@@ -1601,6 +1602,16 @@ ul.navbar-nav>li>a:focus {
     .new-section-how-to-use h3.title {
         font-size: 14px;
         width: 70%
+    }
+
+    body {
+        padding-top: 71px;
+    }
+    .main-title-description {
+        text-align: center;
+    }
+    .btn-download-header .button-download {
+        margin: auto;
     }
 }
 

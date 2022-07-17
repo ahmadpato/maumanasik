@@ -1,10 +1,3 @@
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-
     <div class="content-mau text-left">
         <section class="section-size" style="background:#1BAA69">
             <div class="container">
@@ -19,7 +12,7 @@
                         </p>
                         <br>
                         <p>
-                        <h4 style="color: #FFF; line-height: normal;">dengan Belajar Manasik oleh Pembimbing Haji yang sudah <span class="text-warning">Tersertifikasi</span> dan <span class="text-warning">Terverifikasi</span></h4>
+                        <h4 style="color: #FFF; line-height: normal;" class="main-title-description">dengan Belajar Manasik oleh Pembimbing Haji yang sudah <span class="text-warning">Tersertifikasi</span> dan <span class="text-warning">Terverifikasi</span></h4>
                         </p>
                         <br>
                         <div class="btn-download-header">
@@ -38,7 +31,7 @@
                         <br>
                     </div>
                     <div class="col-md-4 col-sm-4">
-                        <img src="<?php echo base_url('/img/ilustrasi/LOGO_MAUMANASIK_HOME-02.svg') ?>" class="img-responsive" alt="Belajar Manasik" style="height: 450px; width: 100%;">
+                        <img src="<?php echo base_url('/img/ilustrasi/LOGO_MAUMANASIK_HOME-02.svg') ?>" class="img-responsive" alt="Belajar Manasik" style="width: 100%;">
                     </div>
                     <br>
                     <br>
