@@ -1613,6 +1613,22 @@ ul.navbar-nav>li>a:focus {
     .btn-download-header .button-download {
         margin: auto;
     }
+    .header-image {
+        height: 400px;
+        margin-top: 10px;
+    }
+    #socmed {
+        padding-left: 15px !important;
+        text-align: center;
+        margin-top: 20px;
+
+        ul {
+            padding-left: 0px;
+            >li {
+                display: inline-block;
+            }
+        }
+    }
 }
 
 @media screen and (max-width:767px) {
@@ -2070,10 +2086,22 @@ ul.navbar-nav>li>a:focus {
     .footer .col ul li {
       font-size: 13px;
     }
+    .header-image {
+        height: 350px;
+    }
+    .btn-download-header img {
+        height: 40px !important;
+    }
+    .text-header {
+        font-size: 35px !important;
+    }
 }
 @media only screen and (max-width: 340px) {
   .footer .col {
     width: 100%;
+  }
+  .header-image {
+    height: 230px;
   }
 }
 
@@ -2900,7 +2928,6 @@ h3 {
     }
 
     @media screen and (max-width: 1100px) {
-      #socmed { display: none; }   
       #jdid { display: none; }
       #chosing-class .about-item {
         font-size: 40px;

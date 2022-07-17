@@ -31,10 +31,8 @@
                         <br>
                     </div>
                     <div class="col-md-4 col-sm-4">
-                        <img src="<?php echo base_url('/img/ilustrasi/LOGO_MAUMANASIK_HOME-02.svg') ?>" class="img-responsive" alt="Belajar Manasik" style="width: 100%;">
+                        <img src="<?php echo base_url('/img/ilustrasi/LOGO_MAUMANASIK_HOME-02.svg') ?>" class="img-responsive header-image" alt="Belajar Manasik" style="width: 100%;">
                     </div>
-                    <br>
-                    <br>
                     <div id="socmed" class="col-md-2 col-sm-2" style="padding-left:100px;">
                         <ul>
                             <li>

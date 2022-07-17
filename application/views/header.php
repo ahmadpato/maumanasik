@@ -120,10 +120,6 @@ ini_set('display_errors', 1);
         padding: 20px;
       }
 
-      #socmed {
-        display: none;
-      }
-
       #jdid {
         display: none;
       }
