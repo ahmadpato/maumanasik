@@ -33,7 +33,7 @@
                     <div class="col-md-4 col-sm-4">
                         <img src="<?php echo base_url('/img/ilustrasi/LOGO_MAUMANASIK_HOME-02.svg') ?>" class="img-responsive header-image" alt="Belajar Manasik" style="width: 100%;">
                     </div>
-                    <div id="socmed" class="col-md-2 col-sm-2" style="padding-left:100px;">
+                    <div id="socmed" class="col-md-2 col-sm-2">
                         <ul>
                             <li>
                                 <a href="https://api.whatsapp.com/send?phone=6281213419253&text=Assalamu'alaikum%20admin%20maungaji%20saya%20ingin%20memesan%20Guru%20Ngaji" target="_blank">

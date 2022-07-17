@@ -1629,6 +1629,9 @@ ul.navbar-nav>li>a:focus {
             }
         }
     }
+    .text-header{
+        text-align: center;
+    }
 }
 
 @media screen and (max-width:767px) {
@@ -2920,9 +2923,6 @@ h3 {
         display: initial;
         width: 100%;
     }
-    .section-size {
-        height:500px;
-    }
     * {
         box-sizing: border-box;
     }
@@ -3010,7 +3010,6 @@ h3 {
       .text-header{
         font-family: 'Rakkas'; 
         font-weight: 700;
-        text-align: center;
         font-size: 45px;
       }
       .btn-download-header{
@@ -3048,9 +3047,6 @@ h3 {
         font-weight: 700;
         color: #1baa69;
         margin-top: -30px;
-      }
-      .section-size {
-        height:900px;
       }
     }
 

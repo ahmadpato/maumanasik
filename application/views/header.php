@@ -204,13 +204,6 @@ ini_set('display_errors', 1);
         line-height: 80px;
       }
 
-      .text-header {
-        font-family: "Rakkas";
-        font-weight: 1000;
-        text-align: center;
-        font-size: 45px;
-      }
-
       .btn-download-header {
         text-align: center;
         display: flex;
@@ -252,10 +245,6 @@ ini_set('display_errors', 1);
         font-weight: 1000;
         color: #3597d4;
         margin-top: 0px;
-      }
-
-      .section-size {
-        height: 900px;
       }
     }
 
