@@ -2,14 +2,14 @@
 <footer class="ct-footer" style="background-color: #263238">
     <div class="container">
         <div class="row ct-footer-list">
-            <div class="col-lg-3">
+            <div class="col-lg-3 col-sm-6">
                 <h2 class="ct-footer-list-header" style="color: #FFFFFF">Ikuti Kami</h2>
                 <ul class="fa-ul">
                     <li><a href="https://www.instagram.com/maungaji/" target="_blank"><i class="fa-li fa fa-instagram"></i>maumanasik</a></li>
                     <li><a href="https://www.youtube.com/channel/UCIp6c79qyzU98400W253WYQ" target="_blank"><i class="fa-li fa fa-youtube"></i>maumanasik</a></li>
                 </ul>
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-3 col-sm-6">
                 <h2 class="ct-footer-list-header" style="color: #FFFFFF">Hubungi Kami</h2>
                 <ul class="fa-ul text-white">
                     <li><i class="fa-li fa fa-envelope"></i>maumanasik@gmail.com</li>
@@ -17,7 +17,7 @@
                     <li><i class="fa-li fa fa-map-marker"></i>Menara 165 lantai 4 Jl TB Simatupang kav 1 Cilandak Jakarta Selatan</li>
                 </ul>
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-3 col-sm-6">
                 <h2 class="ct-footer-list-header" style="color: #FFFFFF">Info Perusahaan</h2>
                 <ul>
                     <li><a href="">Tentang Kami</a></li>
@@ -32,7 +32,7 @@
                     <p style="color: #FFFFFF">2010 - <?php echo date("Y"); ?> Privacy - Terms</p>
                 </div>
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-3 col-sm-6">
                 <h2 class="ct-footer-list-header" style="color: #FFFFFF">Download Here</h2>
                 <ul>
                     <li>
