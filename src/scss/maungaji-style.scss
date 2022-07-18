@@ -2441,6 +2441,11 @@ address a:hover {
   .section-size {
       height: 580px;
   }
+  /* Tech Statement */
+  #tech-statement h3, .section-title, .text-choose-package {
+      font-size: 35px !important;
+      line-height: 35px;
+  }
 }
 @media (min-width: 768px) and (max-width: 1199px) {
   .ct-footer-list > li {
@@ -2477,7 +2482,12 @@ address a:hover {
   }
 }
 @media (max-width:479px) {
-    
+    #tech-statement h3,
+    .section-title,
+    .text-choose-package {
+        font-size: 30px !important;
+        line-height: 30px;
+    }
   .ct-footer-pre .form-group input {
     float: left;
     width: 70%;
@@ -3248,11 +3258,6 @@ h3 {
     /* Generic */
     .vertical-heading h2 {
         font-size: 29px;
-    }
-    /* Tech Statement */
-    #tech-statement h3 {
-        font-size: 20px;
-        line-height: 30px;
     }
     /* Services 02 */
     .r-tabs-accordion-title {
