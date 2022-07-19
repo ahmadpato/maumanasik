@@ -146,7 +146,7 @@
                                 </p>
                             </div>
                             <div class="text-center">
-                                <p class="text-register-teacher text-center" style="color: #1baa69;">
+                                <p class="text-register-teacher text-center">
                                     <a href="https://bit.ly/Maungajiapa" target="_blank" class="text-success">Daftar Jadi Pembimbing <i class="fa fa-arrow-right"></i></a>
                                 </p>
                             </div>
@@ -167,8 +167,8 @@
                                 </p>
                             </div>
                             <div class="text-center">
-                                <p class="text-register-teacher text-center" style="color: #1baa69;">
-                                    <a href="https://play.google.com/store/apps/details?id=com.maungaji.guruapp" target="_blank">Daftar Jadi Pembimbing <i class="fa fa-arrow-right"></i></a>
+                                <p class="text-register-teacher text-center">
+                                    <a href="https://play.google.com/store/apps/details?id=com.maungaji.guruapp" class="text-success" target="_blank">Daftar Jadi Pembimbing <i class="fa fa-arrow-right"></i></a>
                                 </p>
                             </div>
                         </div>
@@ -210,27 +210,31 @@
             <div class="container">
                 <div class="row">
                     <br>
-                    <div class="col-md-6 col-sm-6 text-center square-kelebihan-maungaji" style="color:#FFFFFF; font-size:25px; font-family:Poppins;">
-                        <p>
-                            <img src="<?php echo base_url('img/ilustrasi/Maumanasik-advantage-1.png') ?>" style="left: 10%;" class="img-responsive center-block " alt="Belajar Manasik" height="auto">
-                        </p>
-                        <p style="color:#FFFFFF; font-size:25px; font-family:Poppins;">
-                            Pembimbing Bersetifikat
-                        </p>
-                        <p style="font-size:15px;">
-                            Pembimbing sudah di Verifikasi dan Bersertifikat BAN-PT serta Kemeng dengan minimal 3 Tahun Pengalaman dalam Membimbing Haji dan Umroh
-                        </p>
+                    <div class="col-md-6 col-sm-6 text-center" style="color:#FFFFFF; font-size:25px; font-family:Poppins;">
+                        <div class="square-kelebihan-maungaji">
+                            <p>
+                                <img src="<?php echo base_url('img/ilustrasi/Maumanasik-advantage-1.png') ?>" style="left: 10%;" class="img-responsive center-block " alt="Belajar Manasik" height="auto">
+                            </p>
+                            <p style="color:#FFFFFF; font-size:25px; font-family:Poppins;">
+                                Pembimbing Bersetifikat
+                            </p>
+                            <p style="font-size:15px;">
+                                Pembimbing sudah di Verifikasi dan Bersertifikat BAN-PT serta Kemeng dengan minimal 3 Tahun Pengalaman dalam Membimbing Haji dan Umroh
+                            </p>
+                        </div>
                     </div>
-                    <div class="col-md-6 col-sm-6 text-center square-kelebihan-maungaji" style="color:#FFFFFF; font-size:25px; font-family:Poppins;">
-                        <p>
-                            <img src="<?php echo base_url('img/ilustrasi/Maumanasik-advantage-2.png') ?>" class="img-responsive center-block " alt="Belajar Manasik" height="auto">
-                        </p>
-                        <p style="color:#FFFFFF; font-size:25px; font-family:Poppins;">
-                            Materi Komperhensif
-                        </p>
-                        <p style="font-size:15px;">
-                            Materi sesuai dengan Stander Materi Kemenag dan dibuat lebih komperhensif agar mudah di mengerti dan pahami
-                        </p>
+                    <div class="col-md-6 col-sm-6 text-center" style="color:#FFFFFF; font-size:25px; font-family:Poppins;">
+                        <div class="square-kelebihan-maungaji">
+                            <p>
+                                <img src="<?php echo base_url('img/ilustrasi/Maumanasik-advantage-2.png') ?>" class="img-responsive center-block " alt="Belajar Manasik" height="auto">
+                            </p>
+                            <p style="color:#FFFFFF; font-size:25px; font-family:Poppins;">
+                                Materi Komperhensif
+                            </p>
+                            <p style="font-size:15px;">
+                                Materi sesuai dengan Stander Materi Kemenag dan dibuat lebih komperhensif agar mudah di mengerti dan pahami
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>

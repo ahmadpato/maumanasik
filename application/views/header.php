@@ -130,7 +130,6 @@ ini_set('display_errors', 1);
 
       #prons-mau .square-kelebihan-maungaji {
         height: 300px;
-        width: 300px;
         margin-top: 25px;
       }
 
@@ -146,11 +145,6 @@ ini_set('display_errors', 1);
         width: 300px;
         margin-left: 10px;
         margin-top: 10px;
-      }
-
-      .text-register-teacher {
-        width: 330px;
-        /* margin-top: 510px; */
       }
 
       .img-santri {
