@@ -74,18 +74,12 @@
                     </div>
                 </div>
             </div>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
         </section>
     </div>
 
 
     <!--choosing class-->
-    <div id="chosing-class" class="content-box-md" style="margin-top:-100px;">
+    <div id="chosing-class" class="pt-5 pb-0 py-md-5">
         <div class="container">
             <div class="row">
                 <div class="about-item text-left">
@@ -118,8 +112,8 @@
     <!--end class-->
 
     <!--article-->
-    <div class="content-box-md teacher-box" style="margin-top:-80px;">
-        <div class="container">
+    <div class="teacher-box pb-5 pt-0 py-md-5">
+        <div class="container mb-4">
             <div class="row">
                 <div class="col-sm-6">
                     <div class="row">
@@ -188,22 +182,15 @@
                 </div> -->
             </div>
         </div>
-
-        <div class="owl-carousel owl-carousel1 owl-theme" style="margin-top: -50px;">
-
-        </div>
     </div>
     <!--end article-->
 
-    <div id="prons-mau" class="content-mau text-left">
-        <section style="background:#1BAA69;">
+    <div id="prons-mau" class="content-mau text-left py-5" style="background:#1BAA69;">
+        <section class="mb-5">
             <div class="container">
                 <div class="row">
-                    <br>
                     <div class="col-md-12 col-sm-12">
-                        <p>
                         <h3 class="section-title text-white">Kelebihan Mau Manasik</h3>
-                        </p>
                     </div>
                 </div>
             </div>
@@ -238,18 +225,16 @@
                     </div>
                 </div>
             </div>
-            <br>
-            <br>
         </section>
     </div>
 
     <!--prices-->
-    <div class="gtco-testimonials study-packages">
+    <div class="gtco-testimonials study-packages py-5">
         <div class="container">
             <div class="row">
                 <div class="about-item text-left">
                     <div id="tech-statement">
-                        <div class="text-choose-package" style="margin-top: 100px; color:#1BAA69">Pilih Paket Manasik mu</div>
+                        <div class="text-choose-package" style="color:#1BAA69">Pilih Paket Manasik mu</div>
                     </div>
                     <form action="" style="font-size: 20px;">
                         <label class="radio-inline">
@@ -261,81 +246,84 @@
                     </form>
                 </div>
             </div>
-        </div>
+            <div class="row">
+                <div class="col">
+                    <div class="owl-carousel owl-carousel1 owl-theme" style="margin-top: -50px;">
 
-        <div class="owl-carousel owl-carousel1 owl-theme" style="margin-top: -50px;">
+                        <?php
+                        $container_class = 'keluarga';
 
-            <?php
-            $container_class = 'keluarga';
+                        $container_class_kelompok = 'kelompok';
 
-            $container_class_kelompok = 'kelompok';
+                        ?>
+                        <div class="card text-center package-card <?php echo $container_class; ?> ">
+                            <img class="card-img-top" src="<?php echo base_url('img/icon/new/personal.svg') ?>" alt="">
+                            <div class="card-body">
+                                <h3 class="package-name">Reguler</h3>
+                                <br />
+                                <p class="package-price">
+                                    1 juta<span class="package-type">/Paket</span>
+                                </p>
+                                <br />
+                                <div class="col-sm-6 package-detail">
+                                    Tipe Kelas: Online
+                                </div>
+                                <div class="col-sm-6  package-detail">
+                                    8 Pertemuan
+                                </div>
+                                <p class="package-description" style="font-size: 20px;">
+                                    Belajar Manasik dengan Pembimbing bersertifikat selama 1 bulan
+                                </p>
+                            </div>
+                        </div>
 
-            ?>
-            <div class="card text-center package-card <?php echo $container_class; ?> ">
-                <img class="card-img-top" src="<?php echo base_url('img/icon/new/personal.svg') ?>" alt="">
-                <div class="card-body">
-                    <h3 class="package-name">Reguler</h3>
-                    <br />
-                    <p class="package-price">
-                        1 juta<span class="package-type">/Paket</span>
-                    </p>
-                    <br />
-                    <div class="col-sm-6 package-detail">
-                        Tipe Kelas: Online
+                        <div class="card text-center package-card <?php echo $container_class_kelompok; ?> ">
+                            <img class="card-img-top" src="<?php echo base_url('img/icon/new/keluarga.svg') ?>" alt="">
+                            <div class="card-body">
+                                <h3 class="package-name">Intensif</h3>
+                                <br />
+                                <p class="package-price">
+                                    1,5 juta<span class="package-type">/Paket</span>
+                                </p>
+                                <br />
+                                <div class="col-sm-6 package-detail">
+                                    Tipe Kelas: Online
+                                </div>
+                                <div class="col-sm-6  package-detail">
+                                    16 Pertemuan
+                                </div>
+                                <p class="package-description" style="font-size: 20px;">
+                                    Belajar Manasik dengan Pembimbing bersertifikat selama 2 bulan
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="card text-center package-card <?php echo $container_class_kelompok; ?>">
+                            <img class="card-img-top" src="<?php echo base_url('img/icon/new/kelompok.svg') ?>" alt="">
+                            <div class="card-body">
+                                <h3 class="package-name">Super Intensif</h3>
+                                <br />
+                                <p class="package-price">
+                                    2 juta<span class="package-type">/Paket</span>
+                                </p>
+                                <br />
+                                <div class="col-sm-6 package-detail">
+                                    Tipe Kelas: Online
+                                </div>
+                                <div class="col-sm-6  package-detail">
+                                    32 Pertemuan
+                                </div>
+                                <p class="package-description" style="font-size: 20px;">
+                                    Belajar Manasik dengan Pembimbing bersertifikat selama 3 bulan
+                                </p>
+                            </div>
+                        </div>
+
+
+
                     </div>
-                    <div class="col-sm-6  package-detail">
-                        8 Pertemuan
-                    </div>
-                    <p class="package-description" style="font-size: 20px;">
-                        Belajar Manasik dengan Pembimbing bersertifikat selama 1 bulan
-                    </p>
                 </div>
             </div>
-
-            <div class="card text-center package-card <?php echo $container_class_kelompok; ?> ">
-                <img class="card-img-top" src="<?php echo base_url('img/icon/new/keluarga.svg') ?>" alt="">
-                <div class="card-body">
-                    <h3 class="package-name">Intensif</h3>
-                    <br />
-                    <p class="package-price">
-                        1,5 juta<span class="package-type">/Paket</span>
-                    </p>
-                    <br />
-                    <div class="col-sm-6 package-detail">
-                        Tipe Kelas: Online
-                    </div>
-                    <div class="col-sm-6  package-detail">
-                        16 Pertemuan
-                    </div>
-                    <p class="package-description" style="font-size: 20px;">
-                        Belajar Manasik dengan Pembimbing bersertifikat selama 2 bulan
-                    </p>
-                </div>
-            </div>
-
-            <div class="card text-center package-card <?php echo $container_class_kelompok; ?>">
-                <img class="card-img-top" src="<?php echo base_url('img/icon/new/kelompok.svg') ?>" alt="">
-                <div class="card-body">
-                    <h3 class="package-name">Super Intensif</h3>
-                    <br />
-                    <p class="package-price">
-                        2 juta<span class="package-type">/Paket</span>
-                    </p>
-                    <br />
-                    <div class="col-sm-6 package-detail">
-                        Tipe Kelas: Online
-                    </div>
-                    <div class="col-sm-6  package-detail">
-                        32 Pertemuan
-                    </div>
-                    <p class="package-description" style="font-size: 20px;">
-                        Belajar Manasik dengan Pembimbing bersertifikat selama 3 bulan
-                    </p>
-                </div>
-            </div>
-
-
-
         </div>
     </div>
     <!--end price-->
@@ -343,16 +331,6 @@
     <!-- Faq -->
 
     <!--End Faq-->
-
-
-
-    <div id="tech-statement" class="text-center" style="margin-top: 50px;">
-        <div class="vertical-heading">
-            <!--<div class="media">-->
-            <!--    Telah Diliput dan Bekerja Sama Dengan-->
-            <!--</div>-->
-        </div>
-    </div>
 
     <!-- <section id="pers" style="background-color: #FFFFFF;">
         <div class="container">

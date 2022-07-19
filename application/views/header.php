@@ -24,7 +24,7 @@ ini_set('display_errors', 1);
   <link rel="icon" type="image/png" href="<?php echo base_url('/img/favicon/ukuran-32x32-01.png') ?>">
 
   <!--Custom CSS -->
-  <link rel="stylesheet" href="<?php echo base_url('/css/maungaji-style.min.css?version=1.0.0') ?>">
+  <link rel="stylesheet" href="<?php echo base_url('/css/maungaji-style.min.css?version=1.0.1') ?>">
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
