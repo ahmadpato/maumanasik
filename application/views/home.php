@@ -12,7 +12,7 @@
                         </p>
                         <br>
                         <p>
-                        <h4 style="color: #FFF; line-height: normal;" class="main-title-description">dengan Belajar Manasik oleh Pembimbing Haji yang sudah <span class="text-warning">Tersertifikasi</span> dan <span class="text-warning">Terverifikasi</span></h4>
+                        <h4 style="color: #FFF; line-height: normal;" class="main-title-description">dengan Belajar Manasik oleh Pembimbing Haji yang sudah <span class="text-middle-yellow">Tersertifikasi</span> dan <span class="text-middle-yellow">Terverifikasi</span></h4>
                         </p>
                         <br>
                         <div class="btn-download-header">
@@ -136,7 +136,7 @@
                         <div class="col-xs-12 hidden-xs">
                             <div class="text-left">
                                 <p class="text-guru">
-                                    Bekerjasama dengan IPHUIN dalam menyiapkan <span class="text-success">Pembimbing yang sudah Terverifikasi</span> dan <span class="text-success">Bersertifikat BAN-PT serta Kemenag</span> dengan <span class="text-success">minimal 3 Tahun Pengalaman dalam Membimbing Haji dan Umroh</span>
+                                    Bekerjasama dengan IPHUIN dalam menyiapkan <strong><span class="text-success">Pembimbing yang sudah Terverifikasi</span></strong> dan <strong><span class="text-success">Bersertifikat BAN-PT serta Kemenag</span></strong> dengan <strong><span class="text-success">minimal 3 Tahun Pengalaman dalam Membimbing Haji dan Umroh</span></strong>
                                 </p>
                             </div>
                             <div class="text-center">

@@ -2593,6 +2593,9 @@ section.pricing {
 .text-maximum-yellow {
   color: #fff931!important;
 }
+.text-middle-yellow {
+  color: #ffe604!important;
+}
 .text-medium-sea-green {
   color: #62b87a!important;
 }
@@ -2901,7 +2904,7 @@ h3 {
         justify-content: left;
 
         img {
-            height: 60px;
+            height: 50px;
         }
     }
     .img-media-tempo {
@@ -3317,8 +3320,11 @@ h3 {
 /* Extra Small Devices (Landscape Phones & Portrait Tablets) */
 
 @media (max-width: 767px) {
+    .section-size {
+        height: 890px;
+    }
     .student-title, .teacher-title {
-        margin-bottom: 30px;
+        margin-bottom: 22px;
     }
     .santri-box, .teacher-box {
         .img-responsive {
