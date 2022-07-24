@@ -43,7 +43,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.instagram.com/maungaji/" target="_blank">
+                                <a href="https://instagram.com/maumanasik?igshid=YmMyMTA2M2Y=" target="_blank">
                                     <div class="round-icon text-center mb-5">
                                         <i class="fa fa-instagram center align-middle fa-2x"></i>
                                     </div>
@@ -93,7 +93,7 @@
                 <div class="col-md-4">
                     <div class="class-card text-center position-relative mb-5 mb-lg-0">
                         <img src="<?php echo base_url('img/ilustrasi/kakbah-1.png') ?>" class="img-responsive center-block" alt="Belajar Manasik">
-                        <div class="class-name w-100 position-absolute" data-toggle="tooltip" title="Mulai belajar mengenali, membaca, dan melafalkan secara benar huruf-huruf Arab dengan mengikuti kelas IQRO’ di Maungaji">
+                        <div class="class-name w-100 position-absolute" data-toggle="tooltip" title="Belajar dan Latihan Pelaksanaan Haji dengan Modul Panduan yang Interaktif dan Komperhensif">
                             Haji
                         </div>
                     </div>
@@ -101,7 +101,7 @@
                 <div class="col-md-4">
                     <div class="class-card text-center position-relative mb-5 mb-lg-0">
                         <img src="<?php echo base_url('img/ilustrasi/kakbah-2.png') ?>" class="img-responsive center-block" alt="Belajar Manasik">
-                        <div class="class-name w-100 position-absolute" data-toggle="tooltip" title="Baguskan dan perbaiki bacaan Qur’an mu dengan mengikuti kelas Tahsin atau yang biasa dikenal dengan ilmu tajwid di Maungaji">
+                        <div class="class-name w-100 position-absolute" data-toggle="tooltip" title="Belajar dan Latihan Pelaksanaan Umroh dengan Modul Panduan yang Interaktif dan Komperhensif">
                             Umroh
                         </div>
                     </div>
